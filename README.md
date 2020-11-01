@@ -8,7 +8,12 @@ La visión computacional es una de las áreas que ha avanzado más rápidamente 
 
 # Solución:
 Base de imágenes: https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view
-lo que he hecho
+
+En primer lugar, se crea la red neuronal profunda donde el input son imagenes de 48X48 en tonos grises y el resultado siete diferentes estados de ánimo. Después se entrena la red neuronal profunda guardando los párametros de la red neuronal si se alcanza un valor de exactitud mayor al del paso anterior. En 150 epochs alcanza un valor de exactitud de 0.66 aproximadamente. El código usado se encuentra en el archivo FacialRecognition.ipynb
+
+Para probar el modelo sobre otras imagenes se crea recorte.py, que nos permite identificar caras en fotos y recortarlas. En el archivo main.py se reproduce el proceso de recorte de las caras de las imagenes, que se guardan a parte, y a cada foto se le asigna una probabilidad de cada una de las 7 emociones establecidas. En la consola se imprime el nombre de la foto y los valores de las probabilidades asociadas.
+
+En el archivo FacialRecognition.ipynb se puede ver un ejemplo de uso y comparar con las imagenes en la carpeta faces.
 
 # Instrucciones de uso:
 
