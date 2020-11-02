@@ -28,3 +28,7 @@ Pipeline:
   3. Fijar las rutas necesarias para cargar el modelo, recortar y procesar las imagenes (especificado en main.py).
   4. Descargar e introducir las imagenes en la ruta de recorte.
   5. Iniciar main.py
+
+# Ejemplo de ejecución:
+
+![alt text](https://raw.githubusercontent.com/hdelcast/Deteccion-de-emociones-a-partir-de-imagenes-faciales/main/Ejemplo.png)
