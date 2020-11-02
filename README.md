@@ -17,6 +17,8 @@ En el archivo FacialRecognition.ipynb se puede ver un ejemplo de uso y comparar 
 
 Pipeline:
 
+![alt text](https://raw.githubusercontent.com/hdelcast/Deteccion-de-emociones-a-partir-de-imagenes-faciales/main/Pipeline.png)
+
 
 
 # Instrucciones de uso:
