@@ -23,4 +23,8 @@ Pipeline:
 
 # Instrucciones de uso:
 
-como usarlo
+  1. Instalar los paquetes necesarios.
+  2. Descargar los archivos.
+  3. Fijar las rutas necesarias para cargar el modelo, recortar y procesar las imagenes (especificado en main.py).
+  4. Descargar e introducir las imagenes en la ruta de recorte.
+  5. Iniciar main.py
