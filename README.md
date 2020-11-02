@@ -15,6 +15,10 @@ Para probar el modelo sobre otras imagenes se crea recorte.py, que nos permite i
 
 En el archivo FacialRecognition.ipynb se puede ver un ejemplo de uso y comparar con las imagenes en la carpeta faces.
 
+Pipeline:
+
+
+
 # Instrucciones de uso:
 
 como usarlo
